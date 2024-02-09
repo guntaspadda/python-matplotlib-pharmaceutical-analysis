@@ -1,2 +1,2 @@
 # python-matplotlib-challenge
-Repo for data bootcamp module 5 assignment
+Used Python and Matplotlib to evaluate, compare, and visualize the performance of cancer treatment drugs
